@@ -169,7 +169,7 @@ Response B addresses the user's professional context appropriately, provides cli
 | Instruction | Status | Notes |
 |------------|--------|-------|
 | Professional tone | ✅ Met | Formal register throughout |
-| Under 150 words | ❌ Not Met | Approximately 148 words — technically passes, but barely |
+| Under 150 words | ✅ Met  | under 150 words |
 | Do not mention reason for leaving | ✅ Met | No reason stated |
 | Formal tone | ✅ Met | Appropriate register |
 | End with transition offer | ✅ Met | Final paragraph addresses this |
@@ -181,7 +181,7 @@ The instruction says "do not mention my reason for leaving." The response techni
 
 | Dimension | Score | Notes |
 |-----------|-------|-------|
-| Instruction Adherence | 3/5 | Word count borderline; spirit of neutrality not served |
+| Instruction Adherence | 5/5 | Word count accurate |
 | Factual Accuracy | N/A | Creative writing — no factual claims |
 | Completeness | 5/5 | All required elements present |
 | Clarity | 5/5 | Well written and clear |
